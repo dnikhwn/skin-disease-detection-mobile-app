@@ -1,0 +1,17 @@
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore datasets
+dataset*/
+combined_data/
+*.zip
+
+# Ignore outputs
+*.h5
+*.tflite
+
+# Ignore temporary
+__pycache__/
+*.log
+*.DS_Store
+.vscode/
