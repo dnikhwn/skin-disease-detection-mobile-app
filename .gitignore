@@ -1,3 +1,6 @@
+# Ignore Meeting Log
+/Meeting Log/
+
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints/
 
