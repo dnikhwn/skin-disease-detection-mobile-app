@@ -1,6 +1,9 @@
 # Ignore Meeting Log
 /Meeting Log/
 
+# Ignore app
+/skin_disease_detection_app/
+
 # Ignore Jupyter checkpoints
 .ipynb_checkpoints/
 
